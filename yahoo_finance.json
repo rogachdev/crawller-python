@@ -1,0 +1,127 @@
+[
+    {
+        "name": "T1LK34.SA",
+        "symbol": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+        "price": "71.70"
+    },
+    {
+        "name": "AAPL34.SA",
+        "symbol": "Apple Inc.",
+        "price": "42.26"
+    },
+    {
+        "name": "MSFT34.SA",
+        "symbol": "Microsoft Corporation",
+        "price": "63.65"
+    },
+    {
+        "name": "TSMC34.SA",
+        "symbol": "Taiwan Semiconductor Manufacturing Company Limited",
+        "price": "52.51"
+    },
+    {
+        "name": "B1SA34.SA",
+        "symbol": "Banco Santander-Chile",
+        "price": "47.55"
+    },
+    {
+        "name": "BABA34.SA",
+        "symbol": "Alibaba Group Holding Limited",
+        "price": "15.02"
+    },
+    {
+        "name": "GOGL35.SA",
+        "symbol": "Alphabet Inc.",
+        "price": "44.80"
+    },
+    {
+        "name": "GOGL34.SA",
+        "symbol": "Alphabet Inc.",
+        "price": "44.42"
+    },
+    {
+        "name": "AMZO34.SA",
+        "symbol": "Amazon.com, Inc.",
+        "price": "26.32"
+    },
+    {
+        "name": "BERK34.SA",
+        "symbol": "Berkshire Hathaway Inc.",
+        "price": "81.65"
+    },
+    {
+        "name": "H1SB34.SA",
+        "symbol": "HSBC Holdings plc",
+        "price": "45.00"
+    },
+    {
+        "name": "NVDC34.SA",
+        "symbol": "NVIDIA Corporation",
+        "price": "28.76"
+    },
+    {
+        "name": "M1TA34.SA",
+        "symbol": "Meta Platforms, Inc.",
+        "price": "42.55"
+    },
+    {
+        "name": "TSLA34.SA",
+        "symbol": "Tesla, Inc.",
+        "price": "25.54"
+    },
+    {
+        "name": "JNJB34.SA",
+        "symbol": "Johnson & Johnson",
+        "price": "54.22"
+    },
+    {
+        "name": "VISA34.SA",
+        "symbol": "Visa Inc.",
+        "price": "58.15"
+    },
+    {
+        "name": "EXXO34.SA",
+        "symbol": "Exxon Mobil Corporation",
+        "price": "73.79"
+    },
+    {
+        "name": "UNHH34.SA",
+        "symbol": "UnitedHealth Group Incorporated",
+        "price": "34.88"
+    },
+    {
+        "name": "WALM34.SA",
+        "symbol": "Walmart Inc.",
+        "price": "46.85"
+    },
+    {
+        "name": "LILY34.SA",
+        "symbol": "Eli Lilly and Company",
+        "price": "66.30"
+    },
+    {
+        "name": "N1VO34.SA",
+        "symbol": "Novo Nordisk A/S",
+        "price": "104.24"
+    },
+    {
+        "name": "PGCO34.SA",
+        "symbol": "The Procter & Gamble Company",
+        "price": "55.60"
+    },
+    {
+        "name": "MSCD34.SA",
+        "symbol": "Mastercard Incorporated",
+        "price": "60.97"
+    },
+    {
+        "name": "CHVX34.SA",
+        "symbol": "Chevron Corporation",
+        "price": "83.84"
+    },
+    {
+        "name": "HOME34.SA",
+        "symbol": "The Home Depot, Inc.",
+        "price": "53.22"
+    }
+]
